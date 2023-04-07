@@ -34,6 +34,6 @@ My model has achieved over the target model performance achieving nearly 79% acc
 
 ## Summary
 
-The overall result of my model were very positive a achieving well over the target performance. I would also recommend a logistic regression model to solve this classifcation problem. Logistic regression estimates the probability of an event occurrin, based on a given dataset of independent variables therefore would be suitable for this classification problem
+The overall result of my model were very positive a achieving well over the target performance. I would also recommend a logistic regression model to solve this classifcation problem. Logistic regression estimates the probability of an event occurrin, based on a given dataset of independent variables therefore would be suitable for this classification problem.
 
 
